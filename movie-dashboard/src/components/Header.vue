@@ -1,6 +1,6 @@
 <template>
   <header class="flex justify-between items-center p-4 bg-gray-100">
-    <router-link to="/" class="text-3xl font-bold">Wookie Movies</router-link>
+    <router-link to="/" class="text-3xl font-bold">Thikkiiana Movies</router-link>
     <SearchBar />
   </header>
 </template>
